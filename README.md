@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+Hello my name is Zoirbek my Last name is Hakimjonov I am Front end developer 
 <!--
 **ZoDuZa/zoduza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
